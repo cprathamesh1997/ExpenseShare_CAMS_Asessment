@@ -15,3 +15,5 @@ The problem statement involves designing a simple application flow with wire fra
 ### *And the app allows users to onboard, create and modify trip groups, enter expenses, upload receipts, tag relevant group members for each expense, facilitate payback to selected members, and ultimately close the group when all expenses are equally split and reconciled.*
 
 
+## For better view you can also visit this link :- https://docs.google.com/presentation/d/13O3U9k_QVVumHlpeY6vJ-U12qbGYT2WO/edit?usp=drive_link&ouid=109618969494381931814&rtpof=true&sd=true
+
